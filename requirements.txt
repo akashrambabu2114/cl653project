@@ -7,6 +7,6 @@ plotly
 xgboost
 pyarrow
 openpyxl
-tensorflow
+tensorflow-cpu
 
 
